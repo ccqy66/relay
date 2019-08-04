@@ -1,0 +1,35 @@
+{
+  "weixin": {
+    "appid": "",
+    "redirect_uri": "xxx",
+    "scope": "",
+    "state": ""
+  },
+  "github": {
+    "redirect_uri": "https://github.com/login/oauth/authorize",
+    "access_token_uri": "https://github.com/login/oauth/access_token",
+    "user_info_uri": "https://api.github.com/user",
+    "client_id": "5123a3090835b5c70726",
+    "client_secret": "c02b5c6a4d83b5a99bf673abce8323b70f87bfae",
+    "scope": "",
+    "state": "status"
+  },
+  "weibo": {
+    "redirect_uri": "https://api.weibo.com/oauth2/authorize",
+    "access_token_uri": "https://api.weibo.com/login/oauth/access_token",
+    "user_info_uri": "https://api.weibo.com/user",
+    "client_id": "5123a3090835b5c70726",
+    "client_secret": "c02b5c6a4d83b5a99bf673abce8323b70f87bfae",
+    "scope": "",
+    "state": "status"
+  },
+  "qq": {
+    "redirect_uri": "https://graph.qq.com/oauth2.0/authorize",
+    "access_token_uri": "https://graph.qq.com/oauth2.0/access_token",
+    "user_info_uri": "https://graph.qq.com/oauth2.0/me",
+    "client_id": "5123a3090835b5c70726",
+    "client_secret": "c02b5c6a4d83b5a99bf673abce8323b70f87bfae",
+    "scope": "",
+    "state": "status"
+  }
+}
